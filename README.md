@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tim
+- 👀 I’m interested in all things coding
+- 🌱 I’m currently learning React JS
+- 📫 Find me on linkedIn
