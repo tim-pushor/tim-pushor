@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Tim
 - 👀 I’m interested in all things coding
-- I'm patiently waiting for a modern Quake remake in the spirit of Quake 1!
+- :video_game: I'm patiently waiting for a modern Quake remake in the spirit of Quake 1!
