@@ -1,16 +1,11 @@
-## Hi, :wave: I'm Tim. Computer stuff I'm interested in:
-
-:octocat: programming and scripting
-
-:computer: server and network management and monitoring
-
-:muscle: All things unixish!
+#### Hi, :wave: I'm Tim. Computer stuff I'm interested in:
+- programming and scripting
+- server and network management and monitoring
+- All things unixish!
  
-## Other stuff:
+#### Other stuff:
 
-🚵 Health and fitness
-
-:guitar: Attempting to play guitar
-
-:video_game: Waiting (patiently) for a modern Quake remake in the spirit of Quake 1!
+- Health and fitness
+- Attempting to play guitar
+- Waiting (patiently) for a modern Quake remake in the spirit of Quake 1!
 
