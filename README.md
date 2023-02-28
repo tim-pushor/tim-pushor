@@ -1,6 +1,4 @@
-# Hi, :wave: I'm Tim
-
-## Computer stuff I'm interested in:
+## Hi, :wave: I'm Tim. Computer stuff I'm interested in:
 
 :octocat: programming and scripting
 
