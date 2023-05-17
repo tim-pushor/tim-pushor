@@ -4,6 +4,7 @@ Computer stuff I'm interested in:
 - Automation!
 - Software design
 - Server & infrastructure management
+- MacOS - believe it or not
 - All things Unixish!
  
 #### Other stuff:
@@ -11,4 +12,5 @@ Computer stuff I'm interested in:
 - Quake!
 - Health and fitness
 - Playing guitar - badly
-- Waiting (patiently) for a modern Quake remake in the spirit of Quake 1!
+
+*Hey, Bethesda, how about a new new Quake release in the spirit of the original Lovecraftian style Quake :pray:*
